@@ -1,6 +1,6 @@
-### A C++ and C# developer working in finance
+## A C++ and C# developer working in finance
 
-All of my projects are available [here](https://github.com/BurkeO)
+### All of my projects are available [here](https://github.com/BurkeO)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=burkeo.visitor-badge&left_color=grey&right_color=blueviolet)
 
