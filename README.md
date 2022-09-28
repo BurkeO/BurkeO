@@ -1,8 +1,4 @@
-## A C++ and C# developer working in finance
-
-### All of my projects are available [here](https://github.com/BurkeO)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=burkeo.visitor-badge&left_color=grey&right_color=blueviolet)
+### A C++ and C# developer working in finance
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/owen-burke)
 
